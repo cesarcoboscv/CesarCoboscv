@@ -18,7 +18,7 @@ Estudie una carrera en Ingeniería Civil y actualmente me dedico al dieño de es
 
 __*Pasa y mira todo lo que hecho, si tienes algún comentario puedes hacermelo llegar.*__
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=cesarcobos&show_icons=true&theme=radical">
 
 ---
 
