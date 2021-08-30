@@ -1,25 +1,28 @@
-# 👋¡Hola! 
-### 🏡 Te doy la bienvenia a mi perfil 🏡
+# 👋¡Hey! 
 
-Mi nombre es **César**. y me da gusto que hayas llegado a mi perfil. Aquí podras encontrar todos los proyectos que realizo mientras aprendo a programar.
+## I'm glad to see you 
 
-Estudie una carrera en Ingeniería Civil y actualmente me dedico al dieño de estructuras metálicas y administración de proyectos. Quiero aprender a programar para crear soluciones y mejorar procesos del área en el trabajo que me encuentre, y no solo eso, también en mi día a día.
+I'm **César**.  and it's nice to see you here. Here you can find all proyects that I'm working on while I learn to code.
+
+I have a degree in Civil Engineering and currently I'm deditated to Metallic Structures Design  and Project Management.
+
+I decided to re-learn to progam to create solution to my area at work like:  
+  
+* *AutoLISP routines for AutoCAD:*  
+* *Python*  
+* *C*
+* *HTML & CSS*
+
+These are the languages that I'm learning currently, I haven't too much experience, but in these repo's is everything that I have made.
 
 
-🚀 Implemento habilidades blandas para el desarrollo profesional de mis compañeros de equipo.
 
-💻 Uso tecnologías digitales para mejorar, agilizar y resolver problemas.
-
-🥋 Sin temor a los desafíos.
-
-🔄 He vuelto a mi amor por las matemáticas, el análisis y la programación desde que descubrí la ciencia de datos.
-
-🔍 Me gusta aprender algo nuevo cada día.
-
-__*Pasa y mira todo lo que hecho, si tienes algún comentario puedes hacermelo llegar.*__
-
+*Get in and look al the things that i have done, if you want to get in touch there are my social networks*  
+  
+  
+<p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=cesarcobos&show_icons=true&theme=radical">
-
+</p>
 ---
 
 
