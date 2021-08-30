@@ -24,8 +24,7 @@ These are the languages that I'm learning currently, I haven't too much experien
 #### Get in and look al the things that i have done, if you want to get in touch there are my social networks
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cesarcobos&show_icons=true&theme=radical&count_private=true)
-">
+<img src="https://github-readme-stats.vercel.app/api?username=cesarcobos&show_icons=true&theme=radical&count_private=true"/>
 </p>
 ---
 
