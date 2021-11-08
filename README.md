@@ -28,14 +28,12 @@ These are the languages that I'm learning currently, I haven't too much experien
 </p>
 <br> 
 ---
-
+<p> Let's get in touch</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/cesarcoboscv/" target="_blank" rel="noreferer" title="Get in touch in LinkedIn">
-    <img src="https://bl3302files.storage.live.com/y4m5y7jZJapS5T4cbmk_u4-bmxWy8HVM3I8AEZCePGnJ49Q5tkqkAWysUWn46smV2c_Td8-dia8frtmMurFHqxAquSHG9YoqnilSm8_xQSQ3Wob61KdaaFYdakEoWChNVAYDeKKlhv91iAeINGxHnM32w4IQ8ByG13-X7HKy-YM2dNzRQMAlq11vkKeJXVunPoi?width=81&height=76&cropmode=none">
-  </a>
-&emsp;&emsp;&emsp;
-  <a href="https://twitter.com/CesarcobosCV" target="_blank" rel="noreferer" title="Get in touch in Twitter">
-    <img src="https://bl3302files.storage.live.com/y4mj7Ys-UxEfHjKs-t1iEdxEysVEbwL95YQ-c0_maZuF6cMvwVThwJVZu8icllH-8EeGMgBW6e8P_YCBFAbeOSGMjJfJRcQuNisiDV3Pi-mym_nsdvVA8DerDd_QNuVesQOdhGkEGEZJepLZm4DIXKjvwdY7-V1b-zomGgcjd-cwOKOFSJ3oImBgZGLuNpSZp7Y?width=81&height=73&cropmode=none">
-  </a>
+  <a href="https://www.linkedin.com/in/cesarcoboscv/" target="_blank" rel="noopener" title="in/cesarcoboscv">
+    <img src="https://bl3302files.storage.live.com/y4m4-xW3lPHuvxx7Wc_1tVP2POe6d5pXBd4Kv0IM9jOVVtjyvrcStOOt0GWJxWyjLUe8AvttvZpmv8aVcHfWqCcffjLjCksPsJDnePrk_uG4YEH-5NZZAAsrSGJry11Rwt2pY66Eh-OXtzVDDJC99Ym8hbNH6-HY4A9hQAhnOOM7Ai24N73WCvJnE1DVOaFVG0u?width=64&height=64&cropmode=none" width="48"></a>
+  &emsp;&emsp;&emsp;
+  <a href="https://twitter.com/CesarcobosCV" target="_blank" rel="noopener" title="@cesarcoboscv">
+    <img src="https://bl3302files.storage.live.com/y4mU_Ln_gx2mF3KHjdCOS1yCjmbvQrlWX17u6QS8hSFKw2RFeUOOwxVkYa6z-5YivJMwz6hzV3Kxa7bpCpevNipjXX_k-tItOwLVYi_nJy5ourW4ExcheHtH5v050d3Nzv81KDX_t3-m2sYZokDGjEcMgDPIv5uXiSghbKJE-wOIKRnz29yLo2eoj3wO4vbQabV?width=64&height=64&cropmode=none" width="48"></a>
 </p>
   
