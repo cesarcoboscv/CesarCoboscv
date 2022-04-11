@@ -16,7 +16,7 @@ I decided to re-learn to progam to create solution to my area at work like:
 These are the languages that I'm learning currently, I haven't too much experience, but in these repo's is everything that I have made.
 <br> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcobos&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcoboscv&layout=compact&theme=radical" />
 </p>
 
 
@@ -24,7 +24,7 @@ These are the languages that I'm learning currently, I haven't too much experien
 #### Get in and look al the things that i have done, if you want to get in touch there are my social networks
 <br> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesarcobos&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cesarcoboscv&show_icons=true&theme=radical&count_private=true"/>
 </p>
 <br> 
 ---
