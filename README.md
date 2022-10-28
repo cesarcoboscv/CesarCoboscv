@@ -16,7 +16,7 @@ I decided to re-learn to progam to create solution to my area at work like:
 These are the languages that I'm learning currently, I haven't too much experience, but in these repo's is everything that I have made.
 <br> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcoboscv&layout=compact&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcoboscv&layout=compact&theme=omni&hide=pug" />
 </p>
 
 
